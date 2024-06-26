@@ -4,7 +4,7 @@ This is a millioner quiz app which we have seen before on tv shows. We have 15 q
 
 ## Overview
 
-The clone is consist of 1 pages : Home page. The clone has been deployed. You can see by clicking the link - https://airbnb-demo-jade.vercel.app/ 
+The clone is consist of 1 pages : Home page. The clone has been deployed. You can see simply by clicking the link - https://unique-swan-e0dffa.netlify.app/
 
 ## What's Included ?
 
